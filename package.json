@@ -1,0 +1,22 @@
+{
+  "name": "video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "video.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksymprs/video_handle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksymprs/video_handle/issues"
+  },
+  "homepage": "https://github.com/maksymprs/video_handle#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
